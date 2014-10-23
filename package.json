@@ -1,0 +1,23 @@
+{
+  "main": "https://minutes.io",
+  "name": "nwnode-webkit-update-app",
+  "description": "demo for node-webkit app that does updates using appCache",
+  "version": "1.0.0",
+  "keywords": [
+    "demo",
+    "node-webkit"
+  ],
+  "window": {
+    "title": "node-webkit update demo",
+    "toolbar": false,
+    "frame": true,
+    "width": 1000,
+    "height": 800,
+    "position": "mouse",
+    "min_width": 1000,
+    "min_height": 800
+  },
+  "dependencies": {
+    "node-webkit-builder": "^0.1.3"
+  }
+}
