@@ -19,5 +19,6 @@
   },
   "dependencies": {
     "node-webkit-builder": "^0.1.3"
-  }
+  },
+  "repository": "github:gr2m/node-webkit-update-app"
 }
